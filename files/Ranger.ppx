@@ -15,7 +15,7 @@
         <ConnectionLoopDetection enabled="false"/>
         <ProcessServices enabled="true"/>
         <ProcessOtherUsers enabled="true"/>
-        <BlockUDP443 enabled="false"/>
+        <BlockUDP443 enabled="true"/>
     </Options>
     <ProxyList>
         <Proxy id="101" type="SOCKS5">
