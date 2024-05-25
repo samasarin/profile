@@ -19,7 +19,7 @@
     </Options>
     <ProxyList>
         <Proxy id="100" type="SOCKS5">
-            <Address>bma.alefbyte.com</Address>
+            <Address>live.mashinhesab.ir</Address>
             <Port>32345</Port>
             <Options>0</Options>
         </Proxy>
