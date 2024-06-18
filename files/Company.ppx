@@ -20,7 +20,7 @@
     <ProxyList>
         <Proxy id="100" type="SOCKS5">
             <Address>live.mashinhesab.ir</Address>
-            <Port>32345</Port>
+            <Port>42546</Port>
             <Options>0</Options>
         </Proxy>
     </ProxyList>
